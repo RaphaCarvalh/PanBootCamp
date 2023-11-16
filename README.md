@@ -36,7 +36,7 @@ Se você gostaria de contribuir para a Pokedex, sinta-se à vontade para:
 
 ## Autores
 
-- Seu Nome Devone.R8
+- Devone.R8
 
 
 
